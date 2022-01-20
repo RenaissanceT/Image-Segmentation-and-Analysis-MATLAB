@@ -21,7 +21,6 @@ The microscopic images can be magnified, digitized, and the digital images can b
 * find: Find indices and values of nonzero elements
 * ismember: Array elements that are members of set
 * labelmatrix: Create label matrix from bwconncomp structure
-  
 
   
   
